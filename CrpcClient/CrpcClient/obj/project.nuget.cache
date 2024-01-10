@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "m+kpuSFFK+YOdtz+ineGdgOXJcKhhEKg6sIuYak83KamKWeLZcrE6ACmZ43BvIoP/jP/D/y/2i5+Edou//uK0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nisreen.wardeh\\Desktop\\GRPC\\CrpcClient\\CrpcClient\\CrpcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
+    "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\grpc.core.api\\2.60.0\\grpc.core.api.2.60.0.nupkg.sha512",
+    "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
+    "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\grpc.net.common\\2.60.0\\grpc.net.common.2.60.0.nupkg.sha512",
+    "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\grpc.tools\\2.60.0\\grpc.tools.2.60.0.nupkg.sha512",
+    "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
